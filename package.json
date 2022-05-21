@@ -1,0 +1,15 @@
+{
+  "name": "thesis",
+  "version": "1.0.0",
+  "description": "Thesis tracking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aayush,aditya,chayan,mahak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
